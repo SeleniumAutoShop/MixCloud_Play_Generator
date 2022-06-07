@@ -31,7 +31,7 @@ Generate unlimited amount of plays for any shows on Mixcloud.com
 
 ## Known Bugs  
 -This version is using Xpath to operate  
--The Xapth in *line 88* needs to be updated from time to time  
+-The Xpath in *line 88* needs to be updated from time to time  
 ![line88](https://github.com/SeleniumAutoShop/MixCloud_Play_Generator/blob/22abc00982dd900cb011588eab1a923a95c1bd9f/line88.JPG)  
 (When a song is playing, this bar will show up on the bottom of the browser, the circled spot is where line88 is trying to identify)
 
