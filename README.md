@@ -11,7 +11,7 @@ Generate unlimited amount of plays for any shows on Mixcloud.com
 
 ## Getting Started  
 -This will work with or without a Proxy  
-***Using a Proxy is strongly recommended for without one your IP can be blocked by MixCloud after a while***  
+***Using a Proxy is strongly recommended for without one your IP can be BLOCKED by MixCloud after a while***  
 -VPNs will also do the trick. Just make sure the Proxy option is turned off inside the script if you have a VPN turned on (Proxy option is off by default)  
 -A rotating Proxy works better, you can also manually change the VPN location from time to time  
 
