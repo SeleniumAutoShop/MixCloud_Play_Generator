@@ -27,7 +27,7 @@ Generate unlimited amount of plays for any shows on Mixcloud.com
 
 ## Running  
 -You can run this script by uploading it to your console(I used Spyder), and simply hitting the Run button from your console  
--You can run this script from Commandprompt by going to your project directory, then enter 'python SimplePlayGenerator_LastUpdated2022.py'  
+-You can run this script from Commandprompt by going to your project directory, then enter 'python Run.py'  
 
 ## Known Bugs  
 -This version is using Xpath to operate  
