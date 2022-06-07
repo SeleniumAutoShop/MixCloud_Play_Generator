@@ -32,7 +32,6 @@ Generate unlimited amount of plays for any shows on Mixcloud.com
 ## Known Bugs  
 -This version is using Xpath to operate  
 -The Xapth in *line 88* needs to be updated from time to time  
-![line 88]()
 
 ## Author & Support
 **SeleniumAutoShop**  
